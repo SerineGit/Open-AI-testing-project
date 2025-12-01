@@ -1,4 +1,4 @@
-# 🚀 QA MISSION: Blue Origin & X.AI.Grok
+# 🚀 QA MISSION: OPEN AI
 
 <div align="center">
 
