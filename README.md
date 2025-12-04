@@ -6,17 +6,17 @@
 [![Testing](https://img.shields.io/badge/Testing-Automation-green.svg?style=for-the-badge)](https://github.com)
 [![API](https://img.shields.io/badge/API-Validation-orange.svg?style=for-the-badge)](https://github.com)
 
-**🌟 Comprehensive Testing Framework for Blue Origin and X.AI Applications 🌟**
+**🌟 Comprehensive Testing Framework for OpenAI ChatGPT Platform 🌟**
 
-*End-to-end quality assurance solution for Blue Origin's website and X.AI Grok API, covering UI automation and API testing with robust validation of functionality, performance, and reliability.*
+*End-to-end quality assurance solution for OpenAI's ChatGPT website and REST API, covering UI automation and API testing with robust validation of functionality, performance, and reliability.*
 
-
+---
 
 ### 🎉 **Don't Like Boring READMEs?** 
 
 **Visit Our Interactive Project Page!** ✨
 
-<a href=###" target="_blank">
+<a href="###" target="_blank">
 <img src="https://img.shields.io/badge/🌟%20Interactive%20Page-Visit%20Now!-FF6B6B?style=for-the-badge&logo=github-pages&logoColor=white&labelColor=4ECDC4" alt="Interactive Project Page" />
 </a>
 
@@ -27,42 +27,35 @@
 
 <table>
 <tr>
-<td align="left" width="25%">
+<td align="left" width="33%">
 
 ### 🌐 **Website Testing**
 **Manual & Automated UI**
 - ✅ Positive Testing
 - ❌ Negative Testing  
 - 🧪 Unit Testing
+- 💬 Chat Functionality
 
 </td>
-<td align="left" width="25%">
+<td align="left" width="33%">
 
-### 🛸 **Open AI API**
-**REST API Validation**
+### 🤖 **OpenAI REST API**
+**API Validation**
 - 📮 *Postman Collections*
 - ✅ Positive Testing
-- ❌ Negative Testing 
-
-</td>
-<td align="left" width="25%">
-
-### 🤖 **X.AI Grok API**
-**REST API Validation**
-- 📮 *Postman Collections*
+- ❌ Negative Testing
 - 🧠 AI Response Verification
-- 🔒 Stability Testing
-
+- 🔒 Security Testing
 
 </td>
-<td align="left" width="25%">
+<td align="left" width="33%">
 
-### 🌍 **Cross-Browser**
+### 🌍 **Cross-Platform**
 **Cloud Testing**
 - ☁️ *BrowserStack Grid*
 - 🖥️ Multi-browser Support
 - 📱 Multi-device Validation
-
+- 🔄 Performance Testing
 
 </td>
 </tr>
@@ -81,7 +74,7 @@
 | **🔗 API Testing** | ![Postman](https://img.shields.io/badge/-Postman-FF6C37?style=flat-square&logo=postman&logoColor=white) Newman, REST |
 | **📋 Project Management** | ![Jira](https://img.shields.io/badge/-Jira-0052CC?style=flat-square&logo=jira&logoColor=white) ![Slack](https://img.shields.io/badge/-Slack-4A154B?style=flat-square&logo=slack&logoColor=white) |
 | **📊 Reporting** | HTML Reports, JSON, Screenshots |
-| **🔄 CI/CD** | ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&logoColor=white)  |
+| **🔄 CI/CD** | ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&logoColor=white) Actions |
 
 </div>
 
@@ -95,19 +88,26 @@
 
 <table>
 <tr>
-<td align="center" width="50%">
+<td align="center" width="33%">
 <img src="https://github.com/SergioUS.png" width="80" style="border-radius: 50%"/><br>
 <b>🎯 Sergey Efremov</b><br>
 <i>Project Manager</i><br>
 <a href="https://github.com/SergioUS">📁 GitHub</a> • 
 <a href="https://www.linkedin.com/in/sefremoff/">💼 LinkedIn</a>
 </td>
-<td align="center" width="50%">
+<td align="center" width="33%">
 <img src="https://serinegit.github.io/Blue-Origin-and-X-AI-project-page/img/team/Tatsiana.jpg" width="80" style="border-radius: 50%"/><br>
 <b>👑 Tatsiana Lentz</b><br>
 <i>Team Lead</i><br>
 <a href="https://github.com/TatsianaLentz">📁 GitHub</a> • 
 <a href="https://www.linkedin.com/in/tatsianalentz/">💼 LinkedIn</a>
+</td>
+<td align="center" width="33%">
+<img src="https://github.com/SerineGit.png" width="80" style="border-radius: 50%"/><br>
+<b>⭐ Serine Zargaryan</b><br>
+<i>Deputy Team Lead</i><br>
+<a href="https://github.com/SerineGit">📁 GitHub</a> • 
+<a href="https://www.linkedin.com/in/serinezargaryan/">💼 LinkedIn</a>
 </td>
 </tr>
 </table>
@@ -161,10 +161,7 @@
 <a href="https://github.com/1vpfcb">📁</a> • <a href="https://www.linkedin.com/in/viktp/">💼</a>
 </td>
 <td align="center" width="25%">
-<img src="https://github.com/SerineGit.png" width="60" style="border-radius: 50%"/><br>
-<b>Serine Zargaryan</b><br>
-<sub>QA Engineer</sub><br>
-<a href="https://github.com/SerineGit">📁</a> • <a href="https://www.linkedin.com/in/serinezargaryan/">💼</a>
+
 </td>
 </tr>
 </table>
@@ -173,11 +170,133 @@
 
 ---
 
+## 📋 **Project Structure**
+
+```
+openai-qa-testing/
+│
+├── 🧪 tests/
+│   ├── ui_tests/          # Selenium UI automation tests
+│   ├── api_tests/         # REST API tests
+│   └── integration/       # Integration test suites
+│
+├── 📮 postman/
+│   ├── collections/       # Postman collection files
+│   └── environments/      # Environment configurations
+│
+├── 📊 reports/
+│   ├── html/              # HTML test reports
+│   ├── screenshots/       # Test failure screenshots
+│   └── logs/              # Execution logs
+│
+├── 🛠️ utils/
+│   ├── helpers/           # Helper functions
+│   └── config/            # Configuration files
+│
+└── 📄 docs/
+    ├── test_plans/        # Test planning documents
+    └── test_cases/        # Detailed test cases
+```
+
+---
+
+## 🚀 **Getting Started**
+
+### Prerequisites
+
+```bash
+# Install Python dependencies
+pip install -r requirements.txt
+
+# Install Node.js for Newman (Postman CLI)
+npm install -g newman
+```
+
+### Running Tests
+
+**UI Tests:**
+```bash
+# Run all UI tests
+pytest tests/ui_tests/
+
+# Run specific test suite
+pytest tests/ui_tests/test_chat_functionality.py
+```
+
+**API Tests:**
+```bash
+# Run Postman collections via Newman
+newman run postman/collections/openai_api_tests.json
+
+# Run with environment
+newman run postman/collections/openai_api_tests.json -e postman/environments/production.json
+```
+
+---
+
+## 📊 **Test Coverage**
+
+### 🌐 Website Testing
+- ✅ User authentication and registration
+- ✅ Chat interface functionality
+- ✅ Message sending and receiving
+- ✅ File upload capabilities
+- ✅ Conversation history management
+- ✅ Settings and preferences
+- ✅ Responsive design validation
+
+### 🤖 API Testing
+- ✅ Chat completions endpoint
+- ✅ Authentication mechanisms
+- ✅ Rate limiting validation
+- ✅ Error handling
+- ✅ Response time performance
+- ✅ Data integrity checks
+- ✅ Security testing
+
+---
+
+## 📈 **Quality Metrics**
+
 <div align="center">
 
-### 🚀 **Ready to Launch Quality into Orbit!** 🛸
+| Metric | Target | Status |
+|:---:|:---:|:---:|
+| Test Coverage | >90% | 🟢 |
+| Pass Rate | >95% | 🟢 |
+| API Response Time | <2s | 🟢 |
+| Bug Detection | Critical: 0 | 🟢 |
 
-*Ensuring every line of code reaches for the stars* ⭐
+</div>
+
+---
+
+## 🤝 **Contributing**
+
+We welcome contributions! Please follow these steps:
+
+1. Fork the repository
+2. Create your feature branch (`git checkout -b feature/AmazingFeature`)
+3. Commit your changes (`git commit -m 'Add some AmazingFeature'`)
+4. Push to the branch (`git push origin feature/AmazingFeature`)
+5. Open a Pull Request
+
+---
+
+## 📝 **Documentation**
+
+- [Test Plan](docs/test_plans/openai_test_plan.md)
+- [API Documentation](docs/api_documentation.md)
+- [Bug Reporting Guidelines](docs/bug_reporting.md)
+- [Test Case Repository](docs/test_cases/)
+
+---
+
+<div align="center">
+
+### 🚀 **Ensuring AI Quality, One Test at a Time!** 🤖
+
+*Building confidence in conversational AI through rigorous testing* ⭐
 
 [![Made with ❤️ for Quality](https://img.shields.io/badge/Made%20with-%E2%9D%A4%EF%B8%8F%20for%20Quality-red.svg?style=for-the-badge)](https://github.com)
 
