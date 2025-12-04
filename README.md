@@ -103,7 +103,7 @@
 
 <img src="https://github.com/SerineGit.png" width="100" style="border-radius: 50%; border: 3px solid #FF6C37;"/><br>
 **Serine Zargaryan**<br>
-`Team Tech Lead`<br>
+`Tech Lead`<br>
 [<img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=github" />](https://github.com/SerineGit)
 [<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin" />](https://www.linkedin.com/in/serinezargaryan/)
 
@@ -123,28 +123,28 @@
 
 <img src="https://github.com/abuyanovski.png" width="70"/><br>
 **Anton Buyanovski**<br>
-[GitHub](https://github.com/abuyanovski) • [LinkedIn](https://www.linkedin.com/in/antonb-qa/)
+[<img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=github" />](https://github.com/abuyanovski) • [<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin" />](https://www.linkedin.com/in/antonb-qa/)
 
 </td>
 <td align="center">
 
 <img src="линк на картинку" width="70"/><br>
 **Alexander Kulik**<br>
-[GitHub](линк) • [LinkedIn](линк)
+[<img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=github" />](линк) • [<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin" />](линк)
 
 </td>
 <td align="center">
 
 <img src="https://github.com/elenaotrosnova.png" width="70"/><br>
 **Elena Otrosnova**<br>
-[GitHub](https://github.com/elenaotrosnova) • [LinkedIn](https://www.linkedin.com/in/elena-otrosnova/)
+[<img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=github" />](https://github.com/elenaotrosnova) • [<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin" />](https://www.linkedin.com/in/elena-otrosnova/)
 
 </td>
 <td align="center">
 
 <img src="https://media.licdn.com/dms/image/v2/D4E03AQH8n0d765_vew/profile-displayphoto-shrink_800_800/profile-displayphoto-shrink_800_800/0/1697497690550?e=1766620800&v=beta&t=Y33-cJbHFhOPvjR0kwQCBW6qKlfJnkIIPLqJ4BV-TuA" width="70"/><br>
 **Lana Chovhan**<br>
-[GitHub](https://github.com/LanSvet) • [LinkedIn](https://www.linkedin.com/in/lana-chovgan/)
+[<img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=github" />](https://github.com/LanSvet) • [<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin" />](https://www.linkedin.com/in/lana-chovgan/)
 
 </td>
 </tr>
@@ -153,21 +153,21 @@
 
 <img src="https://avatars.githubusercontent.com/u/228629286?v=4" width="70"/><br>
 **Ludmila Sushchuk**<br>
-[GitHub](https://github.com/aaaa8a9) • [LinkedIn](https://www.linkedin.com/in/sushmila/)
+[<img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=github" />](https://github.com/aaaa8a9) • [<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin" />](https://www.linkedin.com/in/sushmila/)
 
 </td>
 <td align="center">
 
 <img src="https://media.licdn.com/dms/image/v2/D4D03AQE5U1qYmG8tbg/profile-displayphoto-crop_800_800/B4DZmDzFQ2GwAI-/0/1758852830716?e=1766620800&v=beta&t=fnzsdejNmfo_8dhocSyBU4aAp1xcj-5Yyctqi93Tw8g" width="70"/><br>
 **Tigran Nikoghosyan**<br>
-[GitHub](https://github.com/Tikgithub9) • [LinkedIn](https://www.linkedin.com/in/tigran-nikoghosyan/)
+[<img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=github" />](https://github.com/Tikgithub9) • [<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin" />](https://www.linkedin.com/in/tigran-nikoghosyan/)
 
 </td>
 <td align="center">
 
 <img src="https://github.com/1vpfcb.png" width="70"/><br>
 **Viktor Pervushkin**<br>
-[GitHub](https://github.com/1vpfcb) • [LinkedIn](https://www.linkedin.com/in/viktp/)
+[<img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=github" />](https://github.com/1vpfcb) • [<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin" />](https://www.linkedin.com/in/viktp/)
 
 </td>
 <td align="center">
