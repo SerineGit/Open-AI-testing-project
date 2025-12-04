@@ -124,7 +124,7 @@
 </td>
 <td align="center" width="25%">
 <img src="линк на картинку" width="60" style="border-radius: 50%"/><br>
-<b>Имя</b><br>
+<b>Alexander Kulik</b><br>
 <sub>QA Engineer</sub><br>
 <a href="линк">📁</a> • <a href="линк">💼</a>
 </td>
@@ -143,28 +143,28 @@
 </tr>
 <tr>
 <td align="center" width="25%">
-<img src="https://media.licdn.com/dms/image/v2/D4E03AQH8n0d765_vew/profile-displayphoto-shrink_800_800/profile-displayphoto-shrink_800_800/0/1697497690550?e=1766620800&v=beta&t=Y33-cJbHFhOPvjR0kwQCBW6qKlfJnkIIPLqJ4BV-TuA" width="60" style="border-radius: 50%"/><br>
-<b>Lana Chovhan</b><br>
+<img src="https://avatars.githubusercontent.com/u/228629286?v=4" width="60" style="border-radius: 50%"/><br>
+<b>Ludmila Sushchuk</b><br>
 <sub>QA Engineer</sub><br>
-<a href="https://github.com/LanSvet">📁</a> • <a href="https://www.linkedin.com/in/lana-chovgan/">💼</a>
+<a href="https://github.com/aaaa8a9">📁</a> • <a href="https://www.linkedin.com/in/sushmila/">💼</a>
 </td>
 <td align="center" width="25%">
 <img src="линк на картинку" width="60" style="border-radius: 50%"/><br>
-<b>Имя</b><br>
+<b>Tigran Nikoghosyan</b><br>
 <sub>QA Engineer</sub><br>
-<a href="линк">📁</a> • <a href="линк">💼</a>
-</td>
-<td align="center" width="25%">
-<img src="https://github.com/SerineGit.png" width="60" style="border-radius: 50%"/><br>
-<b>Serine Zargaryan</b><br>
-<sub>QA Engineer</sub><br>
-<a href="https://github.com/SerineGit">📁</a> • <a href="https://www.linkedin.com/in/serinezargaryan/">💼</a>
+<a href="https://github.com/Tikgithub9">📁</a> • <a href="https://www.linkedin.com/in/tigran-nikoghosyan/">💼</a>
 </td>
 <td align="center" width="25%">
 <img src="https://github.com/1vpfcb.png" width="60" style="border-radius: 50%"/><br>
 <b>Viktor Pervushkin</b><br>
 <sub>QA Engineer</sub><br>
 <a href="https://github.com/1vpfcb">📁</a> • <a href="https://www.linkedin.com/in/viktp/">💼</a>
+</td>
+<td align="center" width="25%">
+<img src="https://github.com/SerineGit.png" width="60" style="border-radius: 50%"/><br>
+<b>Serine Zargaryan</b><br>
+<sub>QA Engineer</sub><br>
+<a href="https://github.com/SerineGit">📁</a> • <a href="https://www.linkedin.com/in/serinezargaryan/">💼</a>
 </td>
 </tr>
 </table>
