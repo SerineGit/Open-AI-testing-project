@@ -185,6 +185,6 @@
 
 **Delivering Quality in Every Conversation**
 
-<sub>Built with dedication by QA professionals | 2024</sub>
+<sub>Built with dedication by QA professionals | 2025</sub>
 
 </div>
