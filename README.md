@@ -32,7 +32,7 @@
 
 |  | **ChatGPT Website** | **OpenAI REST API** |
 |:---:|:---|:---|
-| 🎨 | UI/UX Automation | Endpoint Validation |
+| 🎨 | POM Automation | Endpoint Validation |
 | ✅ | Positive Scenarios | Authentication & Security |
 | ❌ | Negative Testing | Error Handling |
 | 🧪 | Functional Testing | Performance & Load |
