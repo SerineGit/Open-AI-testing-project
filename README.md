@@ -51,7 +51,7 @@
 
 **Automation**
 - Selenium WebDriver
-- Python + Pytest
+- Python + UniTest
 - Page Object Model
 
 </td>
@@ -103,7 +103,7 @@
 
 <img src="https://github.com/SerineGit.png" width="100" style="border-radius: 50%; border: 3px solid #FF6C37;"/><br>
 **Serine Zargaryan**<br>
-`Deputy Team Lead`<br>
+`Team Tech Lead`<br>
 [<img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=github" />](https://github.com/SerineGit)
 [<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin" />](https://www.linkedin.com/in/serinezargaryan/)
 
