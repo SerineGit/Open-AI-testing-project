@@ -129,10 +129,10 @@
 <a href="линк">📁</a> • <a href="линк">💼</a>
 </td>
 <td align="center" width="25%">
-<img src="линк на картинку" width="60" style="border-radius: 50%"/><br>
-<b>Имя</b><br>
+<img src="https://media.licdn.com/dms/image/v2/D4E03AQH8n0d765_vew/profile-displayphoto-shrink_800_800/profile-displayphoto-shrink_800_800/0/1697497690550?e=1766620800&v=beta&t=Y33-cJbHFhOPvjR0kwQCBW6qKlfJnkIIPLqJ4BV-TuA" width="60" style="border-radius: 50%"/><br>
+<b>Lana Chovhan</b><br>
 <sub>QA Engineer</sub><br>
-<a href="линк">📁</a> • <a href="линк">💼</a>
+<a href="https://github.com/LanSvet">📁</a> • <a href="https://www.linkedin.com/in/lana-chovgan/">💼</a>
 </td>
 <td align="center" width="25%">
 <img src="https://github.com/elenaotrosnova.png" width="60" style="border-radius: 50%"/><br>
