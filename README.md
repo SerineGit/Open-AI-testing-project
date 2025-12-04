@@ -1,61 +1,74 @@
-# 🚀 QA MISSION: OPEN AI
+# 🤖 OpenAI ChatGPT | Quality Assurance Project
 
 <div align="center">
 
-[![Quality Assurance](https://img.shields.io/badge/Quality-Assurance-blue.svg?style=for-the-badge)](https://github.com)
-[![Testing](https://img.shields.io/badge/Testing-Automation-green.svg?style=for-the-badge)](https://github.com)
-[![API](https://img.shields.io/badge/API-Validation-orange.svg?style=for-the-badge)](https://github.com)
+```ascii
+   ____                   ___    ____   ____    ___ 
+  / __ \____  ___  ____  /   |  /  _/  / __ \  /   |
+ / / / / __ \/ _ \/ __ \/ /| |  / /   / / / / / /| |
+/ /_/ / /_/ /  __/ / / / ___ |_/ /   / /_/ / / ___ |
+\____/ .___/\___/_/ /_/_/  |_/___/   \___\_\/_/  |_|
+    /_/                                              
+```
 
-**🌟 Comprehensive Testing Framework for OpenAI ChatGPT Platform 🌟**
+**End-to-End Testing Framework for ChatGPT Platform**
 
-*End-to-end quality assurance solution for OpenAI's ChatGPT website and REST API, covering UI automation and API testing with robust validation of functionality, performance, and reliability.*
-
----
-
-### 🎉 **Don't Like Boring READMEs?** 
-
-**Visit Our Interactive Project Page!** ✨
-
-<a href="###" target="_blank">
-<img src="https://img.shields.io/badge/🌟%20Interactive%20Page-Visit%20Now!-FF6B6B?style=for-the-badge&logo=github-pages&logoColor=white&labelColor=4ECDC4" alt="Interactive Project Page" />
-</a>
+`Website Automation` • `REST API Testing` • `Quality Engineering`
 
 ---
+
+[![Python](https://img.shields.io/badge/Python-3.9+-3776AB?style=flat&logo=python&logoColor=white)](https://www.python.org/)
+[![Selenium](https://img.shields.io/badge/Selenium-4.0+-43B02A?style=flat&logo=selenium&logoColor=white)](https://www.selenium.dev/)
+[![Postman](https://img.shields.io/badge/Postman-API-FF6C37?style=flat&logo=postman&logoColor=white)](https://www.postman.com/)
+[![BrowserStack](https://img.shields.io/badge/BrowserStack-Cloud-orange?style=flat&logo=browserstack&logoColor=white)](https://www.browserstack.com/)
+
 </div>
 
-## 🎯 **Testing Scope Overview**
+---
 
-<table>
+## 🎯 What We Test
+
+<div align="center">
+
+|  | **ChatGPT Website** | **OpenAI REST API** |
+|:---:|:---|:---|
+| 🎨 | UI/UX Automation | Endpoint Validation |
+| ✅ | Positive Scenarios | Authentication & Security |
+| ❌ | Negative Testing | Error Handling |
+| 🧪 | Functional Testing | Performance & Load |
+| 💬 | Chat Interactions | Response Accuracy |
+| 📱 | Cross-Browser/Device | Rate Limiting |
+
+</div>
+
+---
+
+## 🛠️ Tech Arsenal
+
+<table align="center">
 <tr>
-<td align="left" width="33%">
+<td>
 
-### 🌐 **Website Testing**
-**Manual & Automated UI**
-- ✅ Positive Testing
-- ❌ Negative Testing  
-- 🧪 Unit Testing
-- 💬 Chat Functionality
+**Automation**
+- Selenium WebDriver
+- Python + Pytest
+- Page Object Model
 
 </td>
-<td align="left" width="33%">
+<td>
 
-### 🤖 **OpenAI REST API**
-**API Validation**
-- 📮 *Postman Collections*
-- ✅ Positive Testing
-- ❌ Negative Testing
-- 🧠 AI Response Verification
-- 🔒 Security Testing
+**API Testing**
+- Postman Collections
+- Newman CLI
+- REST Assured
 
 </td>
-<td align="left" width="33%">
+<td>
 
-### 🌍 **Cross-Platform**
-**Cloud Testing**
-- ☁️ *BrowserStack Grid*
-- 🖥️ Multi-browser Support
-- 📱 Multi-device Validation
-- 🔄 Performance Testing
+**Infrastructure**
+- BrowserStack
+- GitHub Actions
+- Jira + Slack
 
 </td>
 </tr>
@@ -63,241 +76,115 @@
 
 ---
 
-## 🛠️ **Technology Stack**
+## 👨‍💼 Project Leadership
 
 <div align="center">
-
-| 🎨 **Category** | 🔧 **Technologies** |
-|:---:|:---|
-| **🎯 UI Automation** | ![Selenium](https://img.shields.io/badge/-Selenium-43B02A?style=flat-square&logo=selenium&logoColor=white) ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white) |
-| **☁️ Cloud Testing** | ![BrowserStack](https://img.shields.io/badge/-BrowserStack-FF6C37?style=flat-square&logo=browserstack&logoColor=white) |
-| **🔗 API Testing** | ![Postman](https://img.shields.io/badge/-Postman-FF6C37?style=flat-square&logo=postman&logoColor=white) Newman, REST |
-| **📋 Project Management** | ![Jira](https://img.shields.io/badge/-Jira-0052CC?style=flat-square&logo=jira&logoColor=white) ![Slack](https://img.shields.io/badge/-Slack-4A154B?style=flat-square&logo=slack&logoColor=white) |
-| **📊 Reporting** | HTML Reports, JSON, Screenshots |
-| **🔄 CI/CD** | ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&logoColor=white) Actions |
-
-</div>
-
----
-
-## 👥 **Meet Our Expert Team**
-
-<div align="center">
-
-### 🌟 **Leadership & Management**
-
 <table>
 <tr>
 <td align="center" width="33%">
-<img src="https://github.com/SergioUS.png" width="80" style="border-radius: 50%"/><br>
-<b>🎯 Sergey Efremov</b><br>
-<i>Project Manager</i><br>
-<a href="https://github.com/SergioUS">📁 GitHub</a> • 
-<a href="https://www.linkedin.com/in/sefremoff/">💼 LinkedIn</a>
+
+<img src="https://github.com/SergioUS.png" width="100" style="border-radius: 50%; border: 3px solid #3776AB;"/><br>
+**Sergey Efremov**<br>
+`Project Manager`<br>
+[<img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=github" />](https://github.com/SergioUS)
+[<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin" />](https://www.linkedin.com/in/sefremoff/)
+
 </td>
 <td align="center" width="33%">
-<img src="https://serinegit.github.io/Blue-Origin-and-X-AI-project-page/img/team/Tatsiana.jpg" width="80" style="border-radius: 50%"/><br>
-<b>👑 Tatsiana Lentz</b><br>
-<i>Team Lead</i><br>
-<a href="https://github.com/TatsianaLentz">📁 GitHub</a> • 
-<a href="https://www.linkedin.com/in/tatsianalentz/">💼 LinkedIn</a>
+
+<img src="https://serinegit.github.io/Blue-Origin-and-X-AI-project-page/img/team/Tatsiana.jpg" width="100" style="border-radius: 50%; border: 3px solid #43B02A;"/><br>
+**Tatsiana Lentz**<br>
+`Team Lead`<br>
+[<img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=github" />](https://github.com/TatsianaLentz)
+[<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin" />](https://www.linkedin.com/in/tatsianalentz/)
+
 </td>
 <td align="center" width="33%">
-<img src="https://github.com/SerineGit.png" width="80" style="border-radius: 50%"/><br>
-<b>⭐ Serine Zargaryan</b><br>
-<i>Deputy Team Lead</i><br>
-<a href="https://github.com/SerineGit">📁 GitHub</a> • 
-<a href="https://www.linkedin.com/in/serinezargaryan/">💼 LinkedIn</a>
-</td>
-</tr>
-</table>
 
-### 🔬 **QA Engineering Team**
-
-<table>
-<tr>
-<td align="center" width="25%">
-<img src="https://github.com/abuyanovski.png" width="60" style="border-radius: 50%"/><br>
-<b>Anton Buyanovski</b><br>
-<sub>QA Engineer</sub><br>
-<a href="https://github.com/abuyanovski">📁</a> • <a href="https://www.linkedin.com/in/antonb-qa/">💼</a>
-</td>
-<td align="center" width="25%">
-<img src="линк на картинку" width="60" style="border-radius: 50%"/><br>
-<b>Alexander Kulik</b><br>
-<sub>QA Engineer</sub><br>
-<a href="линк">📁</a> • <a href="линк">💼</a>
-</td>
-<td align="center" width="25%">
-<img src="https://github.com/elenaotrosnova.png" width="60" style="border-radius: 50%"/><br>
-<b>Elena Otrosnova</b><br>
-<sub>QA Engineer</sub><br>
-<a href="https://github.com/elenaotrosnova">📁</a> • <a href="https://www.linkedin.com/in/elena-otrosnova/">💼</a>
-</td>
-<td align="center" width="25%">
-<img src="https://media.licdn.com/dms/image/v2/D4E03AQH8n0d765_vew/profile-displayphoto-shrink_800_800/profile-displayphoto-shrink_800_800/0/1697497690550?e=1766620800&v=beta&t=Y33-cJbHFhOPvjR0kwQCBW6qKlfJnkIIPLqJ4BV-TuA" width="60" style="border-radius: 50%"/><br>
-<b>Lana Chovhan</b><br>
-<sub>QA Engineer</sub><br>
-<a href="https://github.com/LanSvet">📁</a> • <a href="https://www.linkedin.com/in/lana-chovgan/">💼</a>
-</td>
-</tr>
-<tr>
-<td align="center" width="25%">
-<img src="https://avatars.githubusercontent.com/u/228629286?v=4" width="60" style="border-radius: 50%"/><br>
-<b>Ludmila Sushchuk</b><br>
-<sub>QA Engineer</sub><br>
-<a href="https://github.com/aaaa8a9">📁</a> • <a href="https://www.linkedin.com/in/sushmila/">💼</a>
-</td>
-<td align="center" width="25%">
-<img src="https://media.licdn.com/dms/image/v2/D4D03AQE5U1qYmG8tbg/profile-displayphoto-crop_800_800/B4DZmDzFQ2GwAI-/0/1758852830716?e=1766620800&v=beta&t=fnzsdejNmfo_8dhocSyBU4aAp1xcj-5Yyctqi93Tw8g" width="60" style="border-radius: 50%"/><br>
-<b>Tigran Nikoghosyan</b><br>
-<sub>QA Engineer</sub><br>
-<a href="https://github.com/Tikgithub9">📁</a> • <a href="https://www.linkedin.com/in/tigran-nikoghosyan/">💼</a>
-</td>
-<td align="center" width="25%">
-<img src="https://github.com/1vpfcb.png" width="60" style="border-radius: 50%"/><br>
-<b>Viktor Pervushkin</b><br>
-<sub>QA Engineer</sub><br>
-<a href="https://github.com/1vpfcb">📁</a> • <a href="https://www.linkedin.com/in/viktp/">💼</a>
-</td>
-<td align="center" width="25%">
+<img src="https://github.com/SerineGit.png" width="100" style="border-radius: 50%; border: 3px solid #FF6C37;"/><br>
+**Serine Zargaryan**<br>
+`Deputy Team Lead`<br>
+[<img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=github" />](https://github.com/SerineGit)
+[<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin" />](https://www.linkedin.com/in/serinezargaryan/)
 
 </td>
 </tr>
 </table>
-
 </div>
 
 ---
 
-## 📋 **Project Structure**
-
-```
-openai-qa-testing/
-│
-├── 🧪 tests/
-│   ├── ui_tests/          # Selenium UI automation tests
-│   ├── api_tests/         # REST API tests
-│   └── integration/       # Integration test suites
-│
-├── 📮 postman/
-│   ├── collections/       # Postman collection files
-│   └── environments/      # Environment configurations
-│
-├── 📊 reports/
-│   ├── html/              # HTML test reports
-│   ├── screenshots/       # Test failure screenshots
-│   └── logs/              # Execution logs
-│
-├── 🛠️ utils/
-│   ├── helpers/           # Helper functions
-│   └── config/            # Configuration files
-│
-└── 📄 docs/
-    ├── test_plans/        # Test planning documents
-    └── test_cases/        # Detailed test cases
-```
-
----
-
-## 🚀 **Getting Started**
-
-### Prerequisites
-
-```bash
-# Install Python dependencies
-pip install -r requirements.txt
-
-# Install Node.js for Newman (Postman CLI)
-npm install -g newman
-```
-
-### Running Tests
-
-**UI Tests:**
-```bash
-# Run all UI tests
-pytest tests/ui_tests/
-
-# Run specific test suite
-pytest tests/ui_tests/test_chat_functionality.py
-```
-
-**API Tests:**
-```bash
-# Run Postman collections via Newman
-newman run postman/collections/openai_api_tests.json
-
-# Run with environment
-newman run postman/collections/openai_api_tests.json -e postman/environments/production.json
-```
-
----
-
-## 📊 **Test Coverage**
-
-### 🌐 Website Testing
-- ✅ User authentication and registration
-- ✅ Chat interface functionality
-- ✅ Message sending and receiving
-- ✅ File upload capabilities
-- ✅ Conversation history management
-- ✅ Settings and preferences
-- ✅ Responsive design validation
-
-### 🤖 API Testing
-- ✅ Chat completions endpoint
-- ✅ Authentication mechanisms
-- ✅ Rate limiting validation
-- ✅ Error handling
-- ✅ Response time performance
-- ✅ Data integrity checks
-- ✅ Security testing
-
----
-
-## 📈 **Quality Metrics**
+## 🔬 QA Engineering Squad
 
 <div align="center">
+<table>
+<tr>
+<td align="center">
 
-| Metric | Target | Status |
-|:---:|:---:|:---:|
-| Test Coverage | >90% | 🟢 |
-| Pass Rate | >95% | 🟢 |
-| API Response Time | <2s | 🟢 |
-| Bug Detection | Critical: 0 | 🟢 |
+<img src="https://github.com/abuyanovski.png" width="70"/><br>
+**Anton Buyanovski**<br>
+[GitHub](https://github.com/abuyanovski) • [LinkedIn](https://www.linkedin.com/in/antonb-qa/)
 
+</td>
+<td align="center">
+
+<img src="линк на картинку" width="70"/><br>
+**Alexander Kulik**<br>
+[GitHub](линк) • [LinkedIn](линк)
+
+</td>
+<td align="center">
+
+<img src="https://github.com/elenaotrosnova.png" width="70"/><br>
+**Elena Otrosnova**<br>
+[GitHub](https://github.com/elenaotrosnova) • [LinkedIn](https://www.linkedin.com/in/elena-otrosnova/)
+
+</td>
+<td align="center">
+
+<img src="https://media.licdn.com/dms/image/v2/D4E03AQH8n0d765_vew/profile-displayphoto-shrink_800_800/profile-displayphoto-shrink_800_800/0/1697497690550?e=1766620800&v=beta&t=Y33-cJbHFhOPvjR0kwQCBW6qKlfJnkIIPLqJ4BV-TuA" width="70"/><br>
+**Lana Chovhan**<br>
+[GitHub](https://github.com/LanSvet) • [LinkedIn](https://www.linkedin.com/in/lana-chovgan/)
+
+</td>
+</tr>
+<tr>
+<td align="center">
+
+<img src="https://avatars.githubusercontent.com/u/228629286?v=4" width="70"/><br>
+**Ludmila Sushchuk**<br>
+[GitHub](https://github.com/aaaa8a9) • [LinkedIn](https://www.linkedin.com/in/sushmila/)
+
+</td>
+<td align="center">
+
+<img src="https://media.licdn.com/dms/image/v2/D4D03AQE5U1qYmG8tbg/profile-displayphoto-crop_800_800/B4DZmDzFQ2GwAI-/0/1758852830716?e=1766620800&v=beta&t=fnzsdejNmfo_8dhocSyBU4aAp1xcj-5Yyctqi93Tw8g" width="70"/><br>
+**Tigran Nikoghosyan**<br>
+[GitHub](https://github.com/Tikgithub9) • [LinkedIn](https://www.linkedin.com/in/tigran-nikoghosyan/)
+
+</td>
+<td align="center">
+
+<img src="https://github.com/1vpfcb.png" width="70"/><br>
+**Viktor Pervushkin**<br>
+[GitHub](https://github.com/1vpfcb) • [LinkedIn](https://www.linkedin.com/in/viktp/)
+
+</td>
+<td align="center">
+
+</td>
+</tr>
+</table>
 </div>
-
----
-
-## 🤝 **Contributing**
-
-We welcome contributions! Please follow these steps:
-
-1. Fork the repository
-2. Create your feature branch (`git checkout -b feature/AmazingFeature`)
-3. Commit your changes (`git commit -m 'Add some AmazingFeature'`)
-4. Push to the branch (`git push origin feature/AmazingFeature`)
-5. Open a Pull Request
-
----
-
-## 📝 **Documentation**
-
-- [Test Plan](docs/test_plans/openai_test_plan.md)
-- [API Documentation](docs/api_documentation.md)
-- [Bug Reporting Guidelines](docs/bug_reporting.md)
-- [Test Case Repository](docs/test_cases/)
 
 ---
 
 <div align="center">
 
-### 🚀 **Ensuring AI Quality, One Test at a Time!** 🤖
+### 💡 *Testing AI with Intelligence*
 
-*Building confidence in conversational AI through rigorous testing* ⭐
+**Delivering Quality in Every Conversation**
 
-[![Made with ❤️ for Quality](https://img.shields.io/badge/Made%20with-%E2%9D%A4%EF%B8%8F%20for%20Quality-red.svg?style=for-the-badge)](https://github.com)
+<sub>Built with dedication by QA professionals | 2024</sub>
 
 </div>
