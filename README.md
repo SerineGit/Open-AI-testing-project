@@ -149,7 +149,7 @@
 <a href="https://github.com/aaaa8a9">📁</a> • <a href="https://www.linkedin.com/in/sushmila/">💼</a>
 </td>
 <td align="center" width="25%">
-<img src="линк на картинку" width="60" style="border-radius: 50%"/><br>
+<img src="https://media.licdn.com/dms/image/v2/D4D03AQE5U1qYmG8tbg/profile-displayphoto-crop_800_800/B4DZmDzFQ2GwAI-/0/1758852830716?e=1766620800&v=beta&t=fnzsdejNmfo_8dhocSyBU4aAp1xcj-5Yyctqi93Tw8g" width="60" style="border-radius: 50%"/><br>
 <b>Tigran Nikoghosyan</b><br>
 <sub>QA Engineer</sub><br>
 <a href="https://github.com/Tikgithub9">📁</a> • <a href="https://www.linkedin.com/in/tigran-nikoghosyan/">💼</a>
