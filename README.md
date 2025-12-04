@@ -128,7 +128,7 @@
 </td>
 <td align="center">
 
-<img src="линк на картинку" width="70"/><br>
+<img src="https://ca.slack-edge.com/TJNJLDTGW-U046H7FMFDH-22edc534c346-512" width="70"/><br>
 **Alexander Kulik**<br>
 [<img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=github" />](линк) • [<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin" />](линк)
 
