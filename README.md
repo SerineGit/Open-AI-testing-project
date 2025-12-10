@@ -83,7 +83,7 @@
 <tr>
 <td align="center" width="33%">
 
-<img src="https://github.com/SergioUS.png" width="100" style="border-radius: 50%; border: 3px solid #3776AB;"/><br>
+<img src="https://github.com/SergioUS.png" width="100" style="border-radius: 50%; border: 0px solid #3776AB;"/><br>
 **Sergey Efremov**<br>
 `Project Manager`<br>
 [<img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=github" />](https://github.com/SergioUS)
@@ -92,7 +92,7 @@
 </td>
 <td align="center" width="33%">
 
-<img src="https://serinegit.github.io/Blue-Origin-and-X-AI-project-page/img/team/Tatsiana.jpg" width="100" style="border-radius: 50%; border: 3px solid #43B02A;"/><br>
+<img src="https://serinegit.github.io/Blue-Origin-and-X-AI-project-page/img/team/Tatsiana.jpg" width="100" style="border-radius: 50%; border: 0px solid #43B02A;"/><br>
 **Tatsiana Lentz**<br>
 `Team Lead`<br>
 [<img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=github" />](https://github.com/TatsianaLentz)
@@ -101,7 +101,7 @@
 </td>
 <td align="center" width="33%">
 
-<img src="https://github.com/SerineGit.png" width="100" style="border-radius: 50%; border: 3px solid #FF6C37;"/><br>
+<img src="https://github.com/SerineGit.png" width="100" style="border-radius: 50%; border: 0px solid #FF6C37;"/><br>
 **Serine Zargaryan**<br>
 `Tech Lead`<br>
 [<img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=github" />](https://github.com/SerineGit)
