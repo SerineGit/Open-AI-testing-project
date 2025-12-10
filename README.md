@@ -2,14 +2,10 @@
 
 <div align="center">
 
-```ascii
-   ____                   ___    ____   ____    ___ 
-  / __ \____  ___  ____  /   |  /  _/  / __ \  /   |
- / / / / __ \/ _ \/ __ \/ /| |  / /   / / / / / /| |
-/ /_/ / /_/ /  __/ / / / ___ |_/ /   / /_/ / / ___ |
-\____/ .___/\___/_/ /_/_/  |_/___/   \___\_\/_/  |_|
-    /_/                                              
-```
+
+https://github.com/user-attachments/assets/b2a3fc75-ca77-4c5c-8c9d-60d8fe6b9b33
+
+
 
 **End-to-End Testing Framework for ChatGPT Platform**
 
